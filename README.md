@@ -1,6 +1,6 @@
 # Bright Data의 인도 プロキシ
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/in) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/in) 
 
 ## 개요
 정밀한 타기팅, 비교할 수 없는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [인도 プロキシ](https://brightdata.co.kr/locations/in)로 매끄러운 スクレイピング을 경험해 보십시오. 인도에서 웹사이트 スクレイピング을 시작하고 더 이상 차단되지 않도록 하십시오.
